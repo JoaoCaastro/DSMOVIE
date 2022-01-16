@@ -1,6 +1,5 @@
 package br.com.joaocastro.dsmovie.entities;
 
-import javax.persistence.Embeddable;
 import javax.persistence.EmbeddedId;
 import javax.persistence.Entity;
 import javax.persistence.Table;
